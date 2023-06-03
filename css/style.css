@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    overflow: auto;
+}
+a{
+    text-decoration: none;
+}
+#sech1 
+{
+    /* display: inline; */
+    height: 100px;
+    position: relative;
+}
+.login{
+    width: 33%;
+    padding: 40px;
+    float: left;
+}
+.search{
+    /* display: inline; */
+    width: 33%;
+    padding: 40px;
+    float: left;
+}
+.hlogo{
+    width: 33%;
+    float: right;
+}
+.hlogo img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
